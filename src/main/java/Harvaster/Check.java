@@ -176,7 +176,7 @@ public class Check {
 		}
 		return false;}
 
-	private boolean checkDigit(String value) {
+	public boolean checkDigit(String value) {
 		int counter = 0;
 		int dot = 0;
 		boolean result = false;
@@ -187,7 +187,7 @@ public class Check {
 			if (znak == '0' || znak == '1' || znak == '2' || znak == '3' || znak == '4' || znak == '5' || znak == '6'
 					|| znak == '7' || znak == '8' || znak == '9' || znak == '.') {
 				counter++;
-				continue;
+				continue; 
 			}
 			if(znak == '.')
 				dot++;
