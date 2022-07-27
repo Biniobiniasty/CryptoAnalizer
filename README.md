@@ -23,7 +23,7 @@ Due to the differences in sources, each source is analyzed by an individual impl
   
  </td></tr>
  <tr><td>
- <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/3.png" height="250" width="3350"/>
+ <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/3.png" height="250" width="500"/>
 </td><td>
 Opis2
 </td></tr>
