@@ -27,9 +27,7 @@ public class Analizer {
 		String BeastETHvalue = "", BeastETHvolumen = "";
 
 		for (String x : DataToAnalis.keySet()) {
-			System.out.println("-----------------" + x + "--------------");
 			for (String y : DataToAnalis.get(x).keySet()) {
-				System.out.println(y + " -> " + DataToAnalis.get(x).get(y));
 				if (DataToAnalis.get(x).get(y) > 0) {
 					///////////////////////////////////////////////////////////////////////////////////////////////////
 					if (y == "ETH (volumen 24h)") {

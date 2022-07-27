@@ -23,9 +23,8 @@ public class Segregation {
 		map.put("ETH (value)", newData.getETHvalue());
 		
 		GetData.setData(newData.getName(), map);
-		System.out.println("Odebralem: " + newData.getName());
-		new Analizer();
 		
+		new Analizer();		
 		new ShowData();
 	}
 	

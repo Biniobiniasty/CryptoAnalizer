@@ -26,3 +26,5 @@ public class GetData {
 		return AnalisData;
 	}
 }
+
+
