@@ -1,6 +1,6 @@
 <center>
 <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/2.png" height="350" width="800"/>
-<br />br />
+<br /><br />
  CryptoAnalizer - Consists of two modules (Harvester and Analyzer)
  <br /><br />
 
