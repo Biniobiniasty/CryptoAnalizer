@@ -23,7 +23,7 @@ Due to the differences in sources, each source is analyzed by an individual impl
   
  </td></tr>
  <tr><td>
- <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/3.png" height="250" width="800"/>
+ <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/6.png" height="250" width="800"/>
 </td><td>
   <b>ANALIZER</b><br />
   This module waits for data from Harvester, after receiving the data, it displays it, performs analysis and displays the results in the window on the right.
