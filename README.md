@@ -13,7 +13,12 @@ Due to the differences in sources, each source is analyzed by an individual impl
  <td>
   <b>HARVESTER</b>
   This module runs on eight threads, each thread is responsible for retrieving data from the source, validating the data and sending it to the Analyzer.
+  <br /><br />
+  <b>Descriptions:</b>
   <ul>
+   <li>Progress bars indicate the thread is working.</li>
+   <li>From the list you can choose the time interval the program should download data from sources.</li>
+   <li>Labels display data on the time elapsed since the data was downloaded and the multiple of downloads.</li>
   </ul>
   
  </td></tr>
