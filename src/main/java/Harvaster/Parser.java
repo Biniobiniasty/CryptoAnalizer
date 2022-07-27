@@ -37,7 +37,6 @@ public class Parser {
 						newString.append(stringData.toCharArray()[i]);
 				}
 
-				System.out.println(newString.toString());
 				stringData = newString.toString();
 
 				if (counterData == 0)

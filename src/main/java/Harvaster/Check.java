@@ -178,7 +178,9 @@ public class Check {
 
 	private boolean checkDigit(String value) {
 		int counter = 0;
+		int dot = 0;
 		boolean result = false;
+	
 
 		for (int x = 0; x < value.length(); x++) {
 			char znak = value.toCharArray()[x];
@@ -187,9 +189,11 @@ public class Check {
 				counter++;
 				continue;
 			}
+			if(znak == '.')
+				dot++;
 		}
 
-		if (counter == value.length())
+		if (counter == value.length()&& (dot == 0 || dot == 1))
 			result = true;
 
 		return result;
