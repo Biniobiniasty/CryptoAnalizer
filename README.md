@@ -8,7 +8,7 @@
  <td>Opis1
  </td></tr>
  <tr><td>
- <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/3.png" height="200" width="450"/>
+ <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/3.png" height="250" width="450"/>
 </td><td>
 Opis2
 </td></tr>
