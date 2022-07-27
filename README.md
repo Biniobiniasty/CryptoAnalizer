@@ -11,7 +11,7 @@ Due to the differences in sources, each source is analyzed by an individual impl
 <tr><td>
  <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/1.png" height="300" width="200"/></td>
  <td>
-  <b>HARVESTER</b>
+  <b>HARVESTER</b><br />
   This module runs on eight threads, each thread is responsible for retrieving data from the source, validating the data and sending it to the Analyzer.
   <br /><br />
   <b>Descriptions:</b>
@@ -25,7 +25,15 @@ Due to the differences in sources, each source is analyzed by an individual impl
  <tr><td>
  <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/3.png" height="250" width="800"/>
 </td><td>
-  <b>ANALIZER</b>
+  <b>ANALIZER</b><br />
+  This module waits for data from Harvester, after receiving the data, it displays it, performs analysis and displays the results in the window on the right.
+  <br /><br />
+  <b>Descriptions:</b>
+  <ul>
+   <li>The window on the left displays the collected data</li>
+   <li>The drop-down list allows you to select the source to be displayed.</li>
+   <li>The window on the right shows the results of the data analysis.</li>
+  </ul>
 </td></tr>
  </table>
 
