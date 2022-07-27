@@ -1,5 +1,5 @@
 <center>
-<img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/2.png" height="350" width="800"/>
+<img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/5.png" height="350" width="800"/>
  
  <b>CryptoAnalizer</b> - Consists of two modules (Harvester and Analyzer)<br />
  The program downloads data from public internet sources about cryptocurrencies and displays them in one place. It analyzes the collected data and displays various information.
