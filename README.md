@@ -25,7 +25,7 @@ Due to the differences in sources, each source is analyzed by an individual impl
  <tr><td>
  <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/3.png" height="250" width="800"/>
 </td><td>
-Opis2
+  <b>ANALIZER</b>
 </td></tr>
  </table>
 
