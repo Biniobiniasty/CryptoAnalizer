@@ -47,6 +47,7 @@ public class Main {
 	 */
 	public Main() {
 		initialize();
+		frmAnalizer.setResizable(false);
 	}
 
 	/**
