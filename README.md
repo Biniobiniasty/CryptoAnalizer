@@ -4,11 +4,11 @@
 
 <table>
 <tr><td>
- <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/1.png" height="100" width="400"/></td>
+ <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/1.png" height="300" width="200"/></td>
  <td>Opis1
  </td></tr>
  <tr><td>
- <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/3.png" height="175" width="450"/>
+ <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/3.png" height="200" width="450"/>
 </td><td>
 Opis2
 </td></tr>
