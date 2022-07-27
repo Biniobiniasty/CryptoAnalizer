@@ -10,7 +10,12 @@ Due to the differences in sources, each source is analyzed by an individual impl
 <table>
 <tr><td>
  <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/1.png" height="300" width="200"/></td>
- <td>Opis1
+ <td>
+  <b>HARVESTER</b>
+  This module runs on eight threads, each thread is responsible for retrieving data from the source, validating the data and sending it to the Analyzer.
+  <ul>
+  </ul>
+  
  </td></tr>
  <tr><td>
  <img src="https://github.com/Biniobiniasty/CryptoAnalizer/blob/master/screenshoot/3.png" height="250" width="450"/>
